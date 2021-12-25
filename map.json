@@ -224,7 +224,7 @@
         }, 
         {
          "draworder":"topdown",
-         "id":2,
+         "id":110,
          "name":"floorLayer",
          "objects":[],
          "opacity":1,
@@ -281,7 +281,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":110,
+ "nextlayerid":111,
  "nextobjectid":9,
  "orientation":"orthogonal",
  "properties":[
